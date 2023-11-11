@@ -1,9 +1,9 @@
 export const connectionDetails = {
-    apiHostName: "",
-    amqpHostName: "",
-    apiPort: "",
-    amqpPort: "",
-    username: "",
-    password: "",
-    vhost: "/"
+  apiHostName: "localhost",
+  amqpHostName: "localhost",
+  apiPort: "15672",
+  amqpPort: "5672",
+  username: "admin",
+  password: "admin",
+  vhost: "/",
 };
